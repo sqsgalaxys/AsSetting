@@ -3,7 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="19" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="384c38" />
     <option name="FILESTATUS_MERGED" value="9876aa" />

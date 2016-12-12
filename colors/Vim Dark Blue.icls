@@ -4,7 +4,7 @@
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -130,8 +130,8 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="ff" />
-        <option name="EFFECT_COLOR" value="ff" />
+        <option name="FOREGROUND" value="589df6" />
+        <option name="EFFECT_COLOR" value="589df6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
