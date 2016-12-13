@@ -26,7 +26,6 @@
       <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/net/UrlAddress.java" timestamp="1476666562430">
         <mark key="'" line="42" column="32" />
       </file>
-      <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/BootCompleteReceiver.java" timestamp="1481391751440" />
       <file name="D:/Users/Administrator/AppData/Local/Android/sdk/sources/android-23/android/view/View.java" timestamp="1477116815815">
         <mark key="'" line="21563" column="0" />
         <mark key="[" line="21488" column="27" />
@@ -34,7 +33,6 @@
         <mark key="^" line="21488" column="26" />
         <mark key="." line="21488" column="26" />
       </file>
-      <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/ConstValues.java" timestamp="1481390723125" />
       <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/ImageEntry.java" timestamp="1481391610852">
         <mark key="'" line="55" column="21" />
         <mark key="[" line="85" column="0" />
@@ -65,6 +63,10 @@
       </file>
       <file name="D:/Desktop/temp/AppStartActivity/appStartActivity/src/main/res/values-en/oks_strings.xml" timestamp="1476688674144">
         <mark key="[" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/gitProject/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/DetailActivity.java" timestamp="1481620831796">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="65" />
       </file>
       <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/MyApplication.java" timestamp="1476674962302">
         <mark key="'" line="142" column="0" />
@@ -207,7 +209,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1481171416027">
+      <file name="/a.regexp" timestamp="1481620530668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/res/layout/focus_write2.xml" timestamp="1478185323890">
@@ -363,8 +365,8 @@
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8OyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>https://www.zhihu.com/question/19760889/answer/19534818</text>
       </register>
       <register name="-" type="4">
         <text>timeInterval</text>
@@ -416,7 +418,7 @@
     <history>
       <history-search>
         <entry>getUrl</entry>
-        <entry encoding="base64">XDx3ZWJWaWV3ss7K/Vw+</entry>
+        <entry encoding="base64">XDx3ZWJWaWV377+977+977+977+9XD4=</entry>
         <entry encoding="base64">XDxtSGFuZGxlclw+</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>webview</entry>
