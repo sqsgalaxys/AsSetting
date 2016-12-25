@@ -9,6 +9,11 @@
       <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/fragment/ListViewMoreFragment.java" timestamp="1476666522006">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/res/values/strings.xml" timestamp="1482650818578">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/entity/ImpedanceType.java" timestamp="1471671184843">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="64" column="1" />
@@ -68,7 +73,6 @@
         <mark key="[" line="53" column="11" />
         <mark key="]" line="53" column="65" />
       </file>
-      <file name="$USER_HOME$/Downloads/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/MainActivity.java" timestamp="1482306830776" />
       <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/MyApplication.java" timestamp="1476674962302">
         <mark key="'" line="142" column="0" />
         <mark key="[" line="52" column="36" />
@@ -138,6 +142,12 @@
       </file>
       <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/res/layout/activity_main.xml" timestamp="1476003552217">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/res/layout/activity_main.xml" timestamp="1482650955872">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/util/PayTask.java" timestamp="1476675735799">
         <mark key="'" line="121" column="24" />
@@ -366,11 +376,11 @@
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>https://www.zhihu.com/question/19760889/answer/19534818</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>timeInterval</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</text>
@@ -379,22 +389,22 @@
         <text>startRequestTime</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8OyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIHRlc3QoU3RyaW5nIHRlc3QsU3RyaW5nLi4uIHRlc3RzKXsK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibnVsbCI+bnVsbDwvc3RyaW5nPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgdGVzdEFzeW5UYXNrIGV4dGVuZHMgQXN5bmNUYXNrPFZvaWQsIFN0cmluZywgU3RyaW5nPiB7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHByb3RlY3RlZCBTdHJpbmcgZG9JbkJhY2tncm91bmQoVm9pZC4uLiBwYXJhbXMpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8OyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIHRlc3QoU3RyaW5nIHRlc3QsU3RyaW5nLi4uIHRlc3RzKXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgdGVzdEFzeW5UYXNrIGV4dGVuZHMgQXN5bmNUYXNrPFZvaWQsIFN0cmluZywgU3RyaW5nPiB7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHByb3RlY3RlZCBTdHJpbmcgZG9JbkJhY2tncm91bmQoVm9pZC4uLiBwYXJhbXMpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -403,7 +413,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoInRpbWVJbnRlcnZhbCIsICIiICsgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRSZXF1ZXN0VGltZSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>462t.</text>
