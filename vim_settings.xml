@@ -66,6 +66,13 @@
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/java/cn/com/dzxw/activity/CommonWebActivity.java" timestamp="1478188991368">
         <mark key="'" line="52" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482653006061">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="25" column="45" />
+      </file>
       <file name="D:/Desktop/temp/AppStartActivity/appStartActivity/src/main/res/values-en/oks_strings.xml" timestamp="1476688674144">
         <mark key="[" line="2" column="18" />
       </file>
@@ -143,7 +150,7 @@
       <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/res/layout/activity_main.xml" timestamp="1476003552217">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/res/layout/activity_main.xml" timestamp="1482650955872">
+      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/res/layout/activity_main.xml" timestamp="1482651754441">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="31" />
@@ -259,7 +266,7 @@
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/entity/Impedance.java" timestamp="1471417301944">
         <mark key="'" line="52" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1481182680441">
+      <file name="/fragment.java" timestamp="1482652031730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Desktop/MiaoDian/AppStartActivity/appStartActivity/build.gradle" timestamp="1478143556003">
@@ -271,10 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="46" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="314" column="77" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="320" column="48" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="321" column="44" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="322" column="58" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="325" column="49" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="326" column="39" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
@@ -371,65 +374,67 @@
       <jump line="39" column="33" filename="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" />
       <jump line="55" column="21" filename="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/ImageEntry.java" />
       <jump line="145" column="8" filename="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/DetailActivity.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
+      <jump line="42" column="21" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
+      <jump line="5" column="18" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
+      <jump line="38" column="8" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>BLACK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>BLACK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</text>
+        <text encoding="base64">XDxIYW5kbGVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>startRequestTime</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1nU2hvdy5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IuQkxBQ0spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5UaW1lclRhc2s7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibnVsbCI+bnVsbDwvc3RyaW5nPgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5UaW1lcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGltZXJUYXNrIHRhc2s7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8OyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGltZXIgdGltZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIHRlc3QoU3RyaW5nIHRlc3QsU3RyaW5nLi4uIHRlc3RzKXsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuTWVzc2FnZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgdGVzdEFzeW5UYXNrIGV4dGVuZHMgQXN5bmNUYXNrPFZvaWQsIFN0cmluZywgU3RyaW5nPiB7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHByb3RlY3RlZCBTdHJpbmcgZG9JbkJhY2tncm91bmQoVm9pZC4uLiBwYXJhbXMpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBhbmRyb2lkLlIuYXR0ci5oYW5kbGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSGFuZGxlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IDI1LzEyLzIwMTYK</text>
       </register>
       <register name=":" type="4">
         <text>462t.</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</last-search>
+      <last-search encoding="base64">XDxIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxIYW5kbGVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getUrl</entry>
-        <entry encoding="base64">XDx3ZWJWaWV377+977+977+977+9XD4=</entry>
         <entry encoding="base64">XDxtSGFuZGxlclw+</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>webview</entry>
@@ -448,6 +453,8 @@
         <entry>int</entry>
         <entry>long</entry>
         <entry encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</entry>
+        <entry>Button</entry>
+        <entry encoding="base64">XDxIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>list</entry>
