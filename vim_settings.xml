@@ -66,12 +66,12 @@
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/java/cn/com/dzxw/activity/CommonWebActivity.java" timestamp="1478188991368">
         <mark key="'" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482653006061">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="25" column="45" />
-        <mark key="]" line="25" column="45" />
-        <mark key="^" line="15" column="40" />
-        <mark key="." line="25" column="45" />
+      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482655131077">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="D:/Desktop/temp/AppStartActivity/appStartActivity/src/main/res/values-en/oks_strings.xml" timestamp="1476688674144">
         <mark key="[" line="2" column="18" />
@@ -150,11 +150,10 @@
       <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/res/layout/activity_main.xml" timestamp="1476003552217">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/res/layout/activity_main.xml" timestamp="1482651754441">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="13" column="31" />
+      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/res/layout/activity_main.xml" timestamp="1482654204007">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/util/PayTask.java" timestamp="1476675735799">
         <mark key="'" line="121" column="24" />
@@ -278,10 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="58" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="325" column="49" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="326" column="39" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="327" column="59" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="343" column="25" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="344" column="28" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="345" column="34" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
@@ -378,64 +373,67 @@
       <jump line="42" column="21" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
       <jump line="5" column="18" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
       <jump line="38" column="8" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
+      <jump line="58" column="4" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
+      <jump line="51" column="4" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
       <register name="&quot;" type="4">
-        <text>BLACK</text>
+        <text>HandlerLeak</text>
       </register>
       <register name="-" type="4">
-        <text>BLACK</text>
+        <text>HandlerLeak</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIYW5kbGVyXD4=</text>
+        <text>TOD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1nU2hvdy5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IuQkxBQ0spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5UaW1lclRhc2s7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkJ1dHRvbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5UaW1lcjsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGltZXJUYXNrIHRhc2s7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQ29sb3I7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGltZXIgdGltZXI7Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBBdXRvLWdlbmVyYXRlZCBtZXRob2Qgc3R1Ygo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuTWVzc2FnZTsK</text>
+        <text encoding="base64">Ly8gVE9ETyBBdXRvLWdlbmVyYXRlZCBtZXRob2Qgc3R1Ygo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBhbmRyb2lkLlIuYXR0ci5oYW5kbGU7Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuVGltZXI7CiAgICBpbXBvcnQgamF2YS51dGlsLlRpbWVyVGFzazsKCiAgICBpbXBvcnQgYW5kcm9pZC5hcHAuQWN0aXZpdHk7CiAgICBpbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7CiAgICBpbXBvcnQgYW5kcm9pZC5vcy5IYW5kbGVyOwogICAgaW1wb3J0IGFuZHJvaWQub3MuTWVzc2FnZTsKICAgIGltcG9ydCBhbmRyb2lkLndpZGdldC5JbWFnZVZpZXc7CgogICAgcHVibGljIGNsYXNzIEhhbmRsZXJBY3Rpdml0eSBleHRlbmRzIEFjdGl2aXR5IHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSGFuZGxlcjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIAogICAgCgogICAgcHJpdmF0ZSBJbWFnZVZpZXcgaW1nU2hvdzsKICAgIHByaXZhdGUgSGFuZGxlciBoYW5kbGUgPSBuZXcgSGFuZGxlcigpOwogICAgcHJpdmF0ZSBSdW5uYWJsZSBjaGFuZ2VJbWdSdW5hYmxlID0gbmV3IFJ1bm5hYmxlKCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgaW1nU2hvdy5zZXRJbWFnZVJlc291cmNlKFIuZHJhd2FibGUuY29sb3JfYmxhY2spOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDUwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW1nU2hvdy5zZXRJbWFnZVJlc291cmNlKFIuZHJhd2FibGUud2hpdGUpOwogICAgICAgIH0KICAgIH07CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbkNyZWF0ZShCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKTsKICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsKICAgICAgICBpbml0VmlldygpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBpbml0VmlldygpIHsKICAgICAgICBCdXR0b24gYnRuU3RhcnQgPSAoQnV0dG9uKSBmaW5kVmlld0J5SWQoUi5pZC5idG5TdGFydCk7CiAgICAgICAgIGltZ1Nob3cgPSAoSW1hZ2VWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5pbWdTaG93KTsKICAgICAgICBidG5TdGFydC5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHZpZXcpIHsKICAgICAgICAgICAgICAgIGhhbmRsZS5wb3N0RGVsYXllZChjaGFuZ2VJbWdSdW5hYmxlLCA1MDApOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IDI1LzEyLzIwMTYK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImludmlzaWJsZSIK</text>
       </register>
       <register name=":" type="4">
         <text>462t.</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIYW5kbGVyXD4=</last-search>
+      <last-search>TOD</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIYW5kbGVyXD4=</last-pattern>
+      <last-pattern>TOD</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtSGFuZGxlclw+</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>webview</entry>
         <entry>get</entry>
@@ -455,6 +453,7 @@
         <entry encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</entry>
         <entry>Button</entry>
         <entry encoding="base64">XDxIYW5kbGVyXD4=</entry>
+        <entry>TOD</entry>
       </history-search>
       <history-cmd>
         <entry>list</entry>
