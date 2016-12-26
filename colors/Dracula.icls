@@ -3,7 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
-  <option name="EDITOR_FONT_NAME" value="mononoki" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="384c38" />
     <option name="CARET_COLOR" value="cccccc" />
@@ -421,12 +421,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="IGNORE.COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="IGNORE.HEADER" baseAttributes="DEFAULT_DOC_COMMENT_TAG" />
-    <option name="IGNORE.NEGATION" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="IGNORE.SECTION" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="IGNORE.SYNTAX" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b389c5" />

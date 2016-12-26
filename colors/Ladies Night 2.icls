@@ -1,9 +1,9 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -576,9 +576,6 @@
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
-      <value />
-    </option>
-    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value />
     </option>
     <option name="SASS_MIXIN">
