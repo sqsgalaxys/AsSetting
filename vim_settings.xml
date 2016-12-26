@@ -188,12 +188,12 @@
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="55" />
       </file>
-      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1482549142346">
-        <mark key="'" line="39" column="33" />
-        <mark key="[" line="488" column="0" />
-        <mark key="]" line="488" column="0" />
-        <mark key="^" line="452" column="47" />
-        <mark key="." line="488" column="0" />
+      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1482734356660">
+        <mark key="'" line="514" column="13" />
+        <mark key="[" line="543" column="32" />
+        <mark key="]" line="571" column="28" />
+        <mark key="^" line="571" column="28" />
+        <mark key="." line="571" column="28" />
       </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothSPP.java" timestamp="1471579045576">
         <mark key="'" line="332" column="30" />
@@ -205,7 +205,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1481171416027">
+      <file name="/a.regexp" timestamp="1482734042826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/res/layout/focus_write2.xml" timestamp="1478185323890">
@@ -256,8 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="46" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="314" column="77" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="320" column="48" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="321" column="44" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="322" column="58" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
@@ -356,31 +354,33 @@
       <jump line="39" column="33" filename="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" />
       <jump line="55" column="21" filename="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/ImageEntry.java" />
       <jump line="145" column="8" filename="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/DetailActivity.java" />
+      <jump line="550" column="31" filename="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" />
+      <jump line="514" column="13" filename="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8OyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cnVuOiA=</text>
       </register>
       <register name="-" type="4">
-        <text>timeInterval</text>
+        <text encoding="base64">cnVuOiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</text>
+        <text encoding="base64">XDx1cGxvYWROb3JtYWxEYXRhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>startRequestTime</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8OyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIHRlc3QoU3RyaW5nIHRlc3QsU3RyaW5nLi4uIHRlc3RzKXsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVXBsb2FkRGF0YVRocmVhZCgpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgdGVzdEFzeW5UYXNrIGV4dGVuZHMgQXN5bmNUYXNrPFZvaWQsIFN0cmluZywgU3RyaW5nPiB7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHByb3RlY3RlZCBTdHJpbmcgZG9JbkJhY2tncm91bmQoVm9pZC4uLiBwYXJhbXMpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVXBsb2FkRGF0YVRocmVhZCgpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -398,23 +398,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoInRpbWVJbnRlcnZhbCIsICIiICsgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRSZXF1ZXN0VGltZSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>462t.</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</last-search>
+      <last-search encoding="base64">XDx1cGxvYWROb3JtYWxEYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cGxvYWROb3JtYWxEYXRhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getUrl</entry>
-        <entry encoding="base64">XDx3ZWJWaWV3ss7K/Vw+</entry>
         <entry encoding="base64">XDxtSGFuZGxlclw+</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>webview</entry>
@@ -433,6 +431,8 @@
         <entry>int</entry>
         <entry>long</entry>
         <entry encoding="base64">XDxzdGFydFJlcXVlc3RUaW1lXD4=</entry>
+        <entry encoding="base64">XDx1cGxvYWRieXRlXD4=</entry>
+        <entry encoding="base64">XDx1cGxvYWROb3JtYWxEYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>list</entry>
