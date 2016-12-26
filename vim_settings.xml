@@ -66,10 +66,11 @@
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/java/cn/com/dzxw/activity/CommonWebActivity.java" timestamp="1478188991368">
         <mark key="'" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482663250675">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482712673790">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
       </file>
       <file name="D:/Desktop/temp/AppStartActivity/appStartActivity/src/main/res/values-en/oks_strings.xml" timestamp="1476688674144">
         <mark key="[" line="2" column="18" />
@@ -84,6 +85,11 @@
         <mark key="]" line="53" column="3" />
         <mark key="^" line="53" column="3" />
         <mark key="." line="53" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1482712811917">
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="0" />
+        <mark key="." line="492" column="0" />
       </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/ERPManager.java" timestamp="1472523823361">
         <mark key="'" line="35" column="66" />
@@ -264,7 +270,6 @@
         <mark key="." line="134" column="11" />
         <mark key="^" line="134" column="11" />
       </file>
-      <file name="$USER_HOME$/Downloads/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/view/activity/ERPMonitorActivity.java" timestamp="1482662439240" />
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/network/RequestManager.java" timestamp="1471418164795">
         <mark key="'" line="19" column="13" />
       </file>
@@ -389,10 +394,10 @@
         <text>@mipmap/ic_launcher</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIOeFp+eJh+e0ouW8lQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>show image millisTime:</text>
+        <text encoding="base64">aGFuZGxlTWVzc2FnZTog</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -401,31 +406,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBsb25nIHN0YXJ0VGltZT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgICAgICAgICAvLyBsb25nIHN0YXJ0TmFub1RpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKTsKICAgICAgICAgICAgICAgICAgICBpbWFnZS5zZXRJbWFnZVJlc291cmNlKGltYWdlc1tudW0rK10pOwogICAgICAgICAgICAgICAgICAgIC8vIGxvbmcgZW5kVGltZT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgICAgICAgICAvLyBsb25nIGVuZE5hbm9UaW1lID0gU3lzdGVtLm5hbm9UaW1lKCk7CiAgICAgICAgICAgICAgICAgICAgLy8gTG9nLmkoVEFHLCAic2hvdyBpbWFnZSBtaWxsaXNUaW1lOiIrKGVuZFRpbWUtc3RhcnRUaW1lKSsibXMiKTsKICAgICAgICAgICAgICAgICAgICAvLyBMb2cuaShUQUcsICJzaG93IGltYWdlIG5hbm9UaW1lOiIrKGVuZE5hbm9UaW1lLXN0YXJ0TmFub1RpbWUpKyJtcyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIOeFp+eJh+e0ouW8lQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIE1lc3NhZ2XkvKDpgJLmoIflv5cK</text>
+        <text encoding="base64">ICAgIC8vIOeFp+eJh+e0ouW8lQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIOimgeWIh+aNoueahOeFp+eJh++8jOaUvuWcqGRyYXdhYmxl5paH5Lu25aS55LiLCg==</text>
+        <text encoding="base64">ICAgIC8vIE1lc3NhZ2XkvKDpgJLmoIflv5cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgZW5kVGltZT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">ICAgIC8vIOimgeWIh+aNoueahOeFp+eJh++8jOaUvuWcqGRyYXdhYmxl5paH5Lu25aS55LiLCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBsb25nIGVuZFRpbWU9U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgICAgICAgICAgICAgLy8gbG9uZyBlbmROYW5vVGltZSA9IFN5c3RlbS5uYW5vVGltZSgpOwogICAgICAgICAgICAgICAgICAgIC8vIExvZy5pKFRBRywgInNob3cgaW1hZ2UgbWlsbGlzVGltZToiKyhlbmRUaW1lLXN0YXJ0VGltZSkrIm1zIik7CiAgICAgICAgICAgICAgICAgICAgLy8gTG9nLmkoVEFHLCAic2hvdyBpbWFnZSBuYW5vVGltZToiKyhlbmROYW5vVGltZS1zdGFydE5hbm9UaW1lKSsibXMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgZW5kVGltZT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBsb25nIHN0YXJ0VGltZT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgICAgICAgICAvLyBsb25nIHN0YXJ0TmFub1RpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBsb25nIGVuZFRpbWU9U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgICAgICAgICAgICAgLy8gbG9uZyBlbmROYW5vVGltZSA9IFN5c3RlbS5uYW5vVGltZSgpOwogICAgICAgICAgICAgICAgICAgIC8vIExvZy5pKFRBRywgInNob3cgaW1hZ2UgbWlsbGlzVGltZToiKyhlbmRUaW1lLXN0YXJ0VGltZSkrIm1zIik7CiAgICAgICAgICAgICAgICAgICAgLy8gTG9nLmkoVEFHLCAic2hvdyBpbWFnZSBuYW5vVGltZToiKyhlbmROYW5vVGltZS1zdGFydE5hbm9UaW1lKSsibXMiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGVuZFRpbWU9U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBsb25nIHN0YXJ0VGltZT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgICAgICAgICAvLyBsb25nIHN0YXJ0TmFub1RpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICJydW4gdGltZSIrKGVuZFRpbWUtc3RhcnRUaW1lKSsibXMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGVuZFRpbWU9U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIExvZy5pKFRBRywgInNob3cgaW1hZ2UgbmFub1RpbWU6IisoZW5kTmFub1RpbWUtc3RhcnROYW5vVGltZSkrIm1zIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICJydW4gdGltZSIrKGVuZFRpbWUtc3RhcnRUaW1lKSsibXMiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
