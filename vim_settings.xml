@@ -249,7 +249,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1482723243664">
+      <file name="/a.regexp" timestamp="1483421736310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/res/layout/focus_write2.xml" timestamp="1478185323890">
@@ -445,7 +445,7 @@
         <text encoding="base64">ICAgIC8vIOacrOacuiB3aWZpIElQIDEKICAgIC8vcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzEwLjEwLjIxMy45ODo4MDgwL2JyYWlud2F2ZS9hcGkvIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>15</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -493,12 +493,12 @@
         <entry>168</entry>
         <entry>wq</entry>
         <entry>only</entry>
-        <entry>q</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz50Lg==</entry>
         <entry>461t.</entry>
         <entry>462t.</entry>
         <entry>15</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
