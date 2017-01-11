@@ -121,8 +121,10 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeProject/MeTest/app/src/main/java/com/sqsgalaxys/metest/MainActivity.java" timestamp="1484112131728">
-        <mark key="[" line="13" column="47" />
+      <file name="$USER_HOME$/Downloads/MeProject/MeTest/app/src/main/java/com/sqsgalaxys/metest/MainActivity.java" timestamp="1484147897780">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/build/intermediates/res/merged/debug/layout/fragment_quest.xml" timestamp="1474356787818">
         <mark key="'" line="340" column="0" />
@@ -411,8 +413,8 @@
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ProcessDataThread</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICBCdXR0b24K</text>
       </register>
       <register name="-" type="4">
         <text>ProcessDataThread</text>
@@ -424,31 +426,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdDEgPSBwYWNrVGVtcC5nZXQoNCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3QyID0gcGFja1RlbXAuZ2V0KDUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5pKFRBRywgIlByb2Nlc3NEYXRhVGhyZWFkOiBzdDE6IiArIHN0MSArICIgc3QyOiIgKyBzdDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdDEgPSBwYWNrVGVtcC5nZXQoNCk7Cg==</text>
+        <text encoding="base64">ICAgICBCdXR0b24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdDEgPSBwYWNrVGVtcC5nZXQoNCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vcHVibGljIHN0YXRpYyBTdHJpbmcgUkVHSVNUX1VSTCA9IEhPU1QgKyAiYnJhaW53YXZlc2VydmVyL2FwaS9yZWdpc3QiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FOiA1LzIzLzIwMTYgdXNlIG5ldyBhcGkgLy8gVE9ETzogNS8yMy8yMDE2Cg==</text>
+        <text encoding="base64">ICAgIC8vcHVibGljIHN0YXRpYyBTdHJpbmcgUkVHSVNUX1VSTCA9IEhPU1QgKyAiYnJhaW53YXZlc2VydmVyL2FwaS9yZWdpc3QiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzEwMy4yNi4wLjEwOjgwODAvYnJhaW53YXZlL2FwaS8iOwo=</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FOiA1LzIzLzIwMTYgdXNlIG5ldyBhcGkgLy8gVE9ETzogNS8yMy8yMDE2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOacrOacuiB3aWZpIElQIDIK</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzEwMy4yNi4wLjEwOjgwODAvYnJhaW53YXZlL2FwaS8iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vaHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9hcGkvCg==</text>
+        <text encoding="base64">ICAgIC8vIOacrOacuiB3aWZpIElQIDIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9hcGkvIjsK</text>
+        <text encoding="base64">ICAgIC8vaHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9hcGkvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOacrOacuiB3aWZpIElQIDEKICAgIC8vcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzEwLjEwLjIxMy45ODo4MDgwL2JyYWlud2F2ZS9hcGkvIjsK</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9hcGkvIjsK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
