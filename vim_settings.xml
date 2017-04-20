@@ -66,6 +66,11 @@
       <file name="D:/Users/Administrator/AppData/Local/Android/sdk/sources/android-23/android/os/Message.java" timestamp="1472723720889">
         <mark key="'" line="18" column="20" />
       </file>
+      <file name="$USER_HOME$/Downloads/storage-chooser-master/gradle/wrapper/gradle-wrapper.properties" timestamp="1492690972827">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+      </file>
       <file name="D:/Desktop/MiaoDian/ZhongShanNews/pullToRefreshLibrary/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshWebView.java" timestamp="1476844372620">
         <mark key="'" line="160" column="109" />
       </file>
@@ -413,11 +418,11 @@
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICBCdXR0b24K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>ProcessDataThread</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
