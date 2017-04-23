@@ -37,8 +37,9 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/SplashDemo/build.gradle" timestamp="1492963121169">
-        <mark key="[" line="2" column="13" />
+      <file name="$USER_HOME$/Downloads/SplashDemo/build.gradle" timestamp="1492965661277">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="1" />
         <mark key="]" line="5" column="4" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
@@ -167,6 +168,10 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="20" column="33" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/databinding/library/1.3.1/library-1.3.1-sources.jar!/android/databinding/DataBindingUtil.java" timestamp="1492964997019">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="28" />
+      </file>
       <file name="$USER_HOME$/Work/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1482723555765">
         <mark key="[" line="452" column="44" />
         <mark key="]" line="452" column="44" />
@@ -272,6 +277,13 @@
       <file name="/a.regexp" timestamp="1484112913255">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" timestamp="1492965933311">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/res/layout/focus_write2.xml" timestamp="1478185323890">
         <mark key="'" line="49" column="41" />
         <mark key="[" line="52" column="0" />
@@ -320,16 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="55" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="377" column="54" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="419" column="62" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="422" column="54" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="465" column="17" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="466" column="20" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="467" column="26" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="469" column="26" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="161" column="0" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
-      <jump line="0" column="0" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="83" column="4" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="1241" column="8" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
       <jump line="4" column="0" filename="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/activity/CommonWebActivity.java" />
@@ -420,64 +422,73 @@
       <jump line="17" column="17" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
       <jump line="54" column="24" filename="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" />
+      <jump line="19" column="21" filename="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" />
+      <jump line="7" column="49" filename="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" />
+      <jump line="9" column="60" filename="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" />
+      <jump line="17" column="47" filename="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" />
+      <jump line="27" column="27" filename="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" />
+      <jump line="44" column="15" filename="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Downloads/SplashDemo/build.gradle" />
+      <jump line="6" column="0" filename="$USER_HOME$/Downloads/SplashDemo/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/SplashDemo/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
-      </register>
-      <register name="-" type="4">
-        <text>1</text>
-      </register>
-      <register name="/" type="4">
-        <text>run</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdDEgPSBwYWNrVGVtcC5nZXQoNCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3QyID0gcGFja1RlbXAuZ2V0KDUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5pKFRBRywgIlByb2Nlc3NEYXRhVGhyZWFkOiBzdDE6IiArIHN0MSArICIgc3QyOiIgKyBzdDIpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICBCdXR0b24K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdDEgPSBwYWNrVGVtcC5nZXQoNCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>package</text>
+      </register>
+      <register name="/" type="4">
+        <text>Acti</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">cGFja2FnZSBhbmRyb2lkLmRhdGFiaW5kaW5nOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICBCdXR0b24K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdDEgPSBwYWNrVGVtcC5nZXQoNCk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vcHVibGljIHN0YXRpYyBTdHJpbmcgUkVHSVNUX1VSTCA9IEhPU1QgKyAiYnJhaW53YXZlc2VydmVyL2FwaS9yZWdpc3QiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FOiA1LzIzLzIwMTYgdXNlIG5ldyBhcGkgLy8gVE9ETzogNS8yMy8yMDE2Cg==</text>
+        <text encoding="base64">ICAgIC8vcHVibGljIHN0YXRpYyBTdHJpbmcgUkVHSVNUX1VSTCA9IEhPU1QgKyAiYnJhaW53YXZlc2VydmVyL2FwaS9yZWdpc3QiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzEwMy4yNi4wLjEwOjgwODAvYnJhaW53YXZlL2FwaS8iOwo=</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FOiA1LzIzLzIwMTYgdXNlIG5ldyBhcGkgLy8gVE9ETzogNS8yMy8yMDE2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIOacrOacuiB3aWZpIElQIDIK</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzEwMy4yNi4wLjEwOjgwODAvYnJhaW53YXZlL2FwaS8iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vaHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9hcGkvCg==</text>
+        <text encoding="base64">ICAgIC8vIOacrOacuiB3aWZpIElQIDIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9hcGkvIjsK</text>
+        <text encoding="base64">ICAgIC8vaHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9hcGkvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>17</text>
       </register>
     </registers>
     <search>
-      <last-search>run</last-search>
+      <last-search>Acti</last-search>
       <last-offset />
-      <last-pattern>run</last-pattern>
+      <last-pattern>Acti</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry encoding="base64">XDxtQmx1ZXRvb3RoU1BQXD4=</entry>
         <entry>thi</entry>
         <entry>classpath</entry>
@@ -497,9 +508,9 @@
         <entry>TOD</entry>
         <entry encoding="base64">XDxpbWFnZXNcPg==</entry>
         <entry>run</entry>
+        <entry>Acti</entry>
       </history-search>
       <history-cmd>
-        <entry>nb</entry>
         <entry>pb</entry>
         <entry>on</entry>
         <entry>qother</entry>
@@ -519,6 +530,7 @@
         <entry>15</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>17</entry>
       </history-cmd>
       <history-expr />
       <history-input />
