@@ -7,9 +7,9 @@
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
   </component>
 </application>
