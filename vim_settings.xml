@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/android-vts-master/gradle/wrapper/gradle-wrapper.properties" timestamp="1493308872510" />
       <file name="D:/ZCSW/BrainWave/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482738610675">
         <mark key="[" line="47" column="20" />
       </file>
@@ -53,12 +54,6 @@
         <mark key="]" line="21488" column="26" />
         <mark key="^" line="21488" column="26" />
         <mark key="." line="21488" column="26" />
-      </file>
-      <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/ImageEntry.java" timestamp="1481391610852">
-        <mark key="'" line="55" column="21" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
       </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/res/layout/activity_login.xml" timestamp="1473123197082">
         <mark key="'" line="147" column="48" />
@@ -178,12 +173,6 @@
         <mark key="." line="452" column="44" />
         <mark key="^" line="452" column="42" />
       </file>
-      <file name="D:/MiaoDian/AS_Project/Aoya/aoyaMASTV/src/main/java/com/tidemedia/huangshan/activity/GuideActivity.java" timestamp="1478175072128">
-        <mark key="'" line="50" column="8" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/BlueToothConnectService.java" timestamp="1477713288314">
         <mark key="'" line="7" column="0" />
       </file>
@@ -195,7 +184,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/SplashDemo/gradle/wrapper/gradle-wrapper.properties" timestamp="1492956864732" />
       <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/util/PayTask.java" timestamp="1476675735799">
         <mark key="'" line="121" column="24" />
         <mark key="[" line="360" column="0" />
