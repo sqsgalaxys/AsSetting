@@ -164,6 +164,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Android-master/build.gradle" timestamp="1494085296980">
+        <mark key="[" line="7" column="58" />
+        <mark key="]" line="7" column="58" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="58" />
+      </file>
       <file name="$USER_HOME$/gitProject/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/DetailActivity.java" timestamp="1481620831796">
         <mark key="[" line="53" column="11" />
         <mark key="]" line="53" column="65" />
@@ -367,11 +373,11 @@
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>package</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>Acti</text>
