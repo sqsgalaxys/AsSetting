@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/Energize-master/app/src/main/java/com/halcyonwaves/apps/energize/MainActivity.java" timestamp="1520166788683">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="130" />
+      </file>
       <file name="D:/ZCSW/BrainWave/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482738610675">
         <mark key="[" line="47" column="20" />
       </file>
@@ -158,11 +162,10 @@
         <mark key="." line="360" column="0" />
         <mark key="^" line="362" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/MainActivity.java" timestamp="1520164261032">
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="26" column="7" />
+      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/MainActivity.java" timestamp="1520166799361">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="D:/MiaoDian/AS_Project/Aoya/jiecaoVideoPlayerLib/src/main/AndroidManifest.xml" timestamp="1478175806855">
         <mark key="[" line="1" column="13" />
@@ -179,6 +182,7 @@
         <mark key="." line="238" column="24" />
         <mark key="^" line="238" column="24" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/BootCompletedReceiver.java" timestamp="1520166734431" />
       <file name="$USER_HOME$/Downloads/Energize-master/app/build.gradle" timestamp="1520165163761">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="27" />
@@ -207,11 +211,11 @@
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/MonitorBatteryStateService.java" timestamp="1520166285685">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="71" column="7" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/MonitorBatteryStateService.java" timestamp="1520167107357">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="42" />
+        <mark key="^" line="37" column="42" />
+        <mark key="." line="37" column="42" />
       </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1481351277025">
         <mark key="'" line="39" column="33" />
@@ -404,33 +408,39 @@
         <text>@mipmap/ic_launcher</text>
       </register>
       <register name="&quot;" type="4">
-        <text>receivers</text>
+        <text>改</text>
       </register>
       <register name="-" type="4">
-        <text>receivers</text>
+        <text>改</text>
       </register>
       <register name="/" type="4">
         <text>Acti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBhbmRyb2lkLmRhdGFiaW5kaW5nOwo=</text>
+        <text encoding="base64">CQkJdGhpcy5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKS5zdGFydFNlcnZpY2UobmV3IEludGVudCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCBNb25pdG9yQmF0dGVyeVN0YXRlU2VydmljZS5jbGFzcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1TR19DT1BZX0RCX1RPX1NEQ0FSRCA9IDQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiaW5zZXJ0UG93ZXJWYWx1ZSgpIGNhbGxlZCB3aXRoOiBwb3dlclNvdXJjZSA9IFsiICsgcG93ZXJTb3VyY2UgKyAiXSwgc2NhbGUgPSBbIiArIHNjYWxlICsgIl0sIGxldmVsID0gWyIgKyBsZXZlbCArICJdLCB0ZW1wcmF0dXJlID0gWyIgKyB0ZW1wcmF0dXJlICsgIl0iKTsgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1TR19DTEVBUl9TVEFUSVNUSUNTID0gMzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5zZXJ2aWNlcy5Nb25pdG9yQmF0dGVyeVN0YXRlU2VydmljZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1TR19DT1BZX0RCX1RPX1NEQ0FSRCA9IDQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8KICAgICAgICAvLyB0aGlzLmJhdHRlcnlEYk9wZW5IZWxwZXIgPSBuZXcgQmF0dGVyeVN0YXRpc3RpY3NEYXRhYmFzZU9wZW5IZWxwZXIodGhpcy5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7CiAgICAgICAgLy8gdGhpcy5iYXR0ZXJ5U3RhdGlzdGljc0RhdGFiYXNlID0gdGhpcy5iYXR0ZXJ5RGJPcGVuSGVscGVyLmdldFdyaXRhYmxlRGF0YWJhc2UoKTsKCiAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1TR19DTEVBUl9TVEFUSVNUSUNTID0gMzsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5zZXJ2aWNlcy5Nb25pdG9yQmF0dGVyeVN0YXRlU2VydmljZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgLy8KICAgICAgICAvLyB0aGlzLmJhdHRlcnlEYk9wZW5IZWxwZXIgPSBuZXcgQmF0dGVyeVN0YXRpc3RpY3NEYXRhYmFzZU9wZW5IZWxwZXIodGhpcy5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7CiAgICAgICAgLy8gdGhpcy5iYXR0ZXJ5U3RhdGlzdGljc0RhdGFiYXNlID0gdGhpcy5iYXR0ZXJ5RGJPcGVuSGVscGVyLmdldFdyaXRhYmxlRGF0YWJhc2UoKTsKCiAgICAgICAgLy8K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CXB1YmxpYyB2b2lkIGluc2VydFBvd2VyU3VwcGx5Q2hhbmdlRXZlbnQoZmluYWwgYm9vbGVhbiBpc0NoYXJnaW5nTm93KSAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>{
 		final ContentValues values = new ContentValues();
 		final long currentUnixTime = System.currentTimeMillis() / 1000;
@@ -443,14 +453,8 @@
 		}
 	}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5yZWNlaXZlcnMuUG93ZXJTdXBwbHlQdWxsZWRPZmZSZWNlaXZlcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5yZWNlaXZlcnMuUG93ZXJTdXBwbHlQbHVnZ2VkSW5SZWNlaXZlcjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5lc3RpbWF0b3JzLkVzdGltYXRpb25SZXN1bHQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5yZWNlaXZlcnMuUG93ZXJTdXBwbHlQdWxsZWRPZmZSZWNlaXZlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
