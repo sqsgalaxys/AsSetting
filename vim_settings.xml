@@ -60,6 +60,11 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/BatteryChangedReceiver.java" timestamp="1520166527712">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482712673790">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="44" />
@@ -109,6 +114,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Energize-master/app/src/main/AndroidManifest.xml" timestamp="1520166681771" />
       <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/MainActivity.java" timestamp="1480407937656">
         <mark key="'" line="39" column="51" />
         <mark key="[" line="82" column="19" />
@@ -173,6 +179,11 @@
         <mark key="." line="238" column="24" />
         <mark key="^" line="238" column="24" />
       </file>
+      <file name="$USER_HOME$/Downloads/Energize-master/app/build.gradle" timestamp="1520165163761">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="D:/Documents/GitHub/boon/app/build.gradle" timestamp="1473075190261">
         <mark key="'" line="91" column="50" />
         <mark key="[" line="16" column="22" />
@@ -195,6 +206,12 @@
         <mark key="]" line="12" column="55" />
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/MonitorBatteryStateService.java" timestamp="1520166285685">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="71" column="7" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1481351277025">
         <mark key="'" line="39" column="33" />
@@ -225,6 +242,12 @@
       </file>
       <file name="/a.regexp" timestamp="1494644218031">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/AndroidManifest.xml" timestamp="1520166676247">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="35" column="64" />
+        <mark key="." line="27" column="27" />
       </file>
       <file name="$USER_HOME$/Downloads/SplashDemo/app/src/main/java/com/tnnowu/android/splashdemo/SplashActivity.java" timestamp="1492965933311">
         <mark key="'" line="44" column="15" />
@@ -263,7 +286,7 @@
         <mark key="." line="134" column="11" />
         <mark key="^" line="134" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1482652031730">
+      <file name="/fragment.java" timestamp="1520166690551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Desktop/MiaoDian/AppStartActivity/appStartActivity/build.gradle" timestamp="1478143556003">
@@ -380,11 +403,11 @@
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>receivers</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>receivers</text>
       </register>
       <register name="/" type="4">
         <text>Acti</text>
@@ -393,31 +416,41 @@
         <text encoding="base64">cGFja2FnZSBhbmRyb2lkLmRhdGFiaW5kaW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1TR19DT1BZX0RCX1RPX1NEQ0FSRCA9IDQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1TR19DTEVBUl9TVEFUSVNUSUNTID0gMzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5zZXJ2aWNlcy5Nb25pdG9yQmF0dGVyeVN0YXRlU2VydmljZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog55S15rGg55S16YeP5bm/5pKt5o6l5Y+X6ICFCiAgICAgKi8KICAgIGNsYXNzIEJhdHRlcnlSZWNlaXZlciBleHRlbmRzIEJyb2FkY2FzdFJlY2VpdmVyIHsKCgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uUmVjZWl2ZShDb250ZXh0IGNvbnRleHQsIEludGVudCBpbnRlbnQpIHsKICAgICAgICAgICAgLy8g6I635Y+W55S16YePCiAgICAgICAgICAgIGludCBsZXZlbCA9IGludGVudC5nZXRJbnRFeHRyYShCYXR0ZXJ5TWFuYWdlci5FWFRSQV9MRVZFTCwgMCk7CiAgICAgICAgICAgIC8vIOiuvue9ruWbvueJhwogICAgICAgICAgICBzZXRCYXR0ZXJ5SW1nKGxldmVsKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8KICAgICAgICAvLyB0aGlzLmJhdHRlcnlEYk9wZW5IZWxwZXIgPSBuZXcgQmF0dGVyeVN0YXRpc3RpY3NEYXRhYmFzZU9wZW5IZWxwZXIodGhpcy5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7CiAgICAgICAgLy8gdGhpcy5iYXR0ZXJ5U3RhdGlzdGljc0RhdGFiYXNlID0gdGhpcy5iYXR0ZXJ5RGJPcGVuSGVscGVyLmdldFdyaXRhYmxlRGF0YWJhc2UoKTsKCiAgICAgICAgLy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6YeK5pS+6LWE5rqQCiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25EZXN0cm95KCkgewogICAgICAgIC8vIOmHiuaUvui1hOa6kCA6IOWFiOmHiuaUvuWtkOexu+i1hOa6kAogICAgICAgIGlmIChtQmF0dGVyeVJlY2VpdmVyICE9IG51bGwpIHsKICAgICAgICAgICAgdW5yZWdpc3RlclJlY2VpdmVyKG1CYXR0ZXJ5UmVjZWl2ZXIpOwogICAgICAgIH0KICAgICAgICBMb2cuZChUQUcsICItLSBvbkRlc3Ryb3kiKTsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0KCg==</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIGluc2VydFBvd2VyU3VwcGx5Q2hhbmdlRXZlbnQoZmluYWwgYm9vbGVhbiBpc0NoYXJnaW5nTm93KSAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>{
+		final ContentValues values = new ContentValues();
+		final long currentUnixTime = System.currentTimeMillis() / 1000;
+		values.put(PowerEventsTable.COLUMN_EVENT_TIME, currentUnixTime);
+		values.put(PowerEventsTable.COLUMN_BATTERY_IS_CHARGING, isChargingNow ? PowerEventsTable.POWER_EVENT_IS_CHARGING : PowerEventsTable.POWER_EVENT_IS_NOT_CHARGING);
+		if (-1 == this.batteryStatisticsDatabase.insert(PowerEventsTable.TABLE_NAME, null, values)) {
+			Log.e(MonitorBatteryStateService.TAG, &quot;Failed to log the event that the power cord was plugged in or unplugged.&quot;);
+		} else {
+			Log.v(MonitorBatteryStateService.TAG, &quot;Successfully inserted a power cord plugging event into the database.&quot;);
+		}
+	}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIHJlZ2lzdGVyQnJvYWRjYXN0KCkgewogICAgLy8g5rOo5YaM55S16YeP5bm/5pKtCiAgICBtQmF0dGVyeVJlY2VpdmVyID0gbmV3IEJhdHRlcnlSZWNlaXZlcigpOwogICAgcmVnaXN0ZXJSZWNlaXZlcihtQmF0dGVyeVJlY2VpdmVyLG5ldyBJbnRlbnRGaWx0ZXIoSW50ZW50LkFDVElPTl9CQVRURVJZX0NIQU5HRUQpKTsKfQoK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5yZWNlaXZlcnMuUG93ZXJTdXBwbHlQdWxsZWRPZmZSZWNlaXZlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRBRwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5yZWNlaXZlcnMuUG93ZXJTdXBwbHlQbHVnZ2VkSW5SZWNlaXZlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5lc3RpbWF0b3JzLkVzdGltYXRpb25SZXN1bHQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
