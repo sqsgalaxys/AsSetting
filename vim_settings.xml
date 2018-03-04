@@ -3,35 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/MainActivity.java" timestamp="1472274730265">
-        <mark key="'" line="95" column="46" />
-        <mark key="[" line="64" column="9" />
-        <mark key="]" line="64" column="8" />
-        <mark key="." line="64" column="8" />
-        <mark key="^" line="64" column="8" />
-      </file>
-      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/res/layout/activity_erpmonitor.xml" timestamp="1474353794784">
-        <mark key="'" line="36" column="46" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="33" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="20" column="33" />
-      </file>
       <file name="D:/ZCSW/BrainWave/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482738610675">
         <mark key="[" line="47" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1472525823419">
+      <file name="/a.dummy" timestamp="1520163743502">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/databinding/library/1.3.1/library-1.3.1-sources.jar!/android/databinding/DataBindingUtil.java" timestamp="1492964997019">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="28" />
-      </file>
-      <file name="$USER_HOME$/Work/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1482723555765">
-        <mark key="[" line="452" column="44" />
-        <mark key="]" line="452" column="44" />
-        <mark key="." line="452" column="44" />
-        <mark key="^" line="452" column="42" />
       </file>
       <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/res/values/strings.xml" timestamp="1482650818578">
         <mark key="[" line="2" column="0" />
@@ -65,6 +41,105 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="D:/Users/Administrator/AppData/Local/Android/sdk/sources/android-23/android/view/View.java" timestamp="1477116815815">
+        <mark key="'" line="21563" column="0" />
+        <mark key="[" line="21488" column="27" />
+        <mark key="]" line="21488" column="26" />
+        <mark key="^" line="21488" column="26" />
+        <mark key="." line="21488" column="26" />
+      </file>
+      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/TerminalActivity.java" timestamp="1477734498679">
+        <mark key="'" line="31" column="36" />
+        <mark key="[" line="187" column="10" />
+        <mark key="]" line="187" column="10" />
+        <mark key="." line="187" column="10" />
+        <mark key="^" line="188" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/storage-chooser-master/gradle/wrapper/gradle-wrapper.properties" timestamp="1492690972827">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482712673790">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+      </file>
+      <file name="D:/Desktop/temp/AppStartActivity/appStartActivity/src/main/res/values-en/oks_strings.xml" timestamp="1476688674144">
+        <mark key="[" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/gitProject/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/DetailActivity.java" timestamp="1481620831796">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="65" />
+      </file>
+      <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/MyApplication.java" timestamp="1476674962302">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1482718403695">
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="0" />
+        <mark key="." line="492" column="0" />
+      </file>
+      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/ERPManager.java" timestamp="1472523823361">
+        <mark key="'" line="35" column="66" />
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="18" column="55" />
+        <mark key="^" line="18" column="55" />
+        <mark key="." line="18" column="55" />
+      </file>
+      <file name="D:/MiaoDian/AS_Project/Aoya/social_sdk_library_project_423/src/main/AndroidManifest.xml" timestamp="1478175291547">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/BatteryReceiver.java" timestamp="1520163300179" />
+      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/view/activity/ERPMonitorActivity.java" timestamp="1477735037989">
+        <mark key="'" line="79" column="42" />
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="43" column="12" />
+        <mark key="^" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+      </file>
+      <file name="$USER_HOME$/Downloads/MeProject/MeTest/app/src/main/java/com/sqsgalaxys/metest/MainActivity.java" timestamp="1484147897780">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/MainActivity.java" timestamp="1480407937656">
+        <mark key="'" line="39" column="51" />
+        <mark key="[" line="82" column="19" />
+        <mark key="]" line="82" column="19" />
+        <mark key="^" line="82" column="19" />
+        <mark key="." line="82" column="19" />
+      </file>
+      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/MainActivity.java" timestamp="1472274730265">
+        <mark key="'" line="95" column="46" />
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="64" column="8" />
+        <mark key="." line="64" column="8" />
+        <mark key="^" line="64" column="8" />
+      </file>
+      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/res/layout/activity_erpmonitor.xml" timestamp="1474353794784">
+        <mark key="'" line="36" column="46" />
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/databinding/library/1.3.1/library-1.3.1-sources.jar!/android/databinding/DataBindingUtil.java" timestamp="1492964997019">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/Work/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1482723555765">
+        <mark key="[" line="452" column="44" />
+        <mark key="]" line="452" column="44" />
+        <mark key="." line="452" column="44" />
+        <mark key="^" line="452" column="42" />
+      </file>
       <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/res/layout/activity_main.xml" timestamp="1482659331208">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -77,12 +152,11 @@
         <mark key="." line="360" column="0" />
         <mark key="^" line="362" column="31" />
       </file>
-      <file name="D:/Users/Administrator/AppData/Local/Android/sdk/sources/android-23/android/view/View.java" timestamp="1477116815815">
-        <mark key="'" line="21563" column="0" />
-        <mark key="[" line="21488" column="27" />
-        <mark key="]" line="21488" column="26" />
-        <mark key="^" line="21488" column="26" />
-        <mark key="." line="21488" column="26" />
+      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/MainActivity.java" timestamp="1520164261032">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="26" column="7" />
       </file>
       <file name="D:/MiaoDian/AS_Project/Aoya/jiecaoVideoPlayerLib/src/main/AndroidManifest.xml" timestamp="1478175806855">
         <mark key="[" line="1" column="13" />
@@ -92,24 +166,12 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="44" column="51" />
       </file>
-      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/TerminalActivity.java" timestamp="1477734498679">
-        <mark key="'" line="31" column="36" />
-        <mark key="[" line="187" column="10" />
-        <mark key="]" line="187" column="10" />
-        <mark key="." line="187" column="10" />
-        <mark key="^" line="188" column="31" />
-      </file>
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/java/cn/com/dzxw/activity/CarlifeActivity2.java" timestamp="1478182883364">
         <mark key="'" line="163" column="4" />
         <mark key="[" line="237" column="31" />
         <mark key="]" line="238" column="24" />
         <mark key="." line="238" column="24" />
         <mark key="^" line="238" column="24" />
-      </file>
-      <file name="$USER_HOME$/Downloads/storage-chooser-master/gradle/wrapper/gradle-wrapper.properties" timestamp="1492690972827">
-        <mark key="[" line="5" column="69" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="5" column="69" />
       </file>
       <file name="D:/Documents/GitHub/boon/app/build.gradle" timestamp="1473075190261">
         <mark key="'" line="91" column="50" />
@@ -134,12 +196,6 @@
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/java/com/sqsgalaxys/metestapplication/MainActivity.java" timestamp="1482712673790">
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="32" column="44" />
-        <mark key="." line="32" column="44" />
-        <mark key="^" line="32" column="44" />
-      </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1481351277025">
         <mark key="'" line="39" column="33" />
         <mark key="[" line="488" column="0" />
@@ -154,9 +210,6 @@
         <mark key="^" line="12" column="69" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Desktop/temp/AppStartActivity/appStartActivity/src/main/res/values-en/oks_strings.xml" timestamp="1476688674144">
-        <mark key="[" line="2" column="18" />
-      </file>
       <file name="D:/ZCSW/BrainWave/BrainHealth/README.md" timestamp="1472536504315">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="21" column="26" />
@@ -170,10 +223,6 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/gitProject/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/DetailActivity.java" timestamp="1481620831796">
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="65" />
-      </file>
       <file name="/a.regexp" timestamp="1494644218031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,29 +232,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="27" />
-      </file>
-      <file name="D:/Documents/Tencent Files/1922400873/FileRecv/MobileFile/gongsiguiyang6/AppStartActivity/src/cn/com/dzxw/MyApplication.java" timestamp="1476674962302">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="53" column="3" />
-        <mark key="^" line="53" column="3" />
-        <mark key="." line="53" column="3" />
-      </file>
-      <file name="$USER_HOME$/Downloads/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/bluetooth/spp/BluetoothService.java" timestamp="1482718403695">
-        <mark key="[" line="492" column="0" />
-        <mark key="]" line="492" column="0" />
-        <mark key="." line="492" column="0" />
-      </file>
-      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/ERPManager.java" timestamp="1472523823361">
-        <mark key="'" line="35" column="66" />
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="55" />
-        <mark key="^" line="18" column="55" />
-        <mark key="." line="18" column="55" />
-      </file>
-      <file name="D:/MiaoDian/AS_Project/Aoya/social_sdk_library_project_423/src/main/AndroidManifest.xml" timestamp="1478175291547">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="40" />
       </file>
       <file name="D:/MiaoDian/AS_Project/AppStartActivity/appStartActivity/src/main/res/layout/focus_write2.xml" timestamp="1478185323890">
         <mark key="'" line="49" column="41" />
@@ -236,26 +262,6 @@
         <mark key="]" line="134" column="11" />
         <mark key="." line="134" column="11" />
         <mark key="^" line="134" column="11" />
-      </file>
-      <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/view/activity/ERPMonitorActivity.java" timestamp="1477735037989">
-        <mark key="'" line="79" column="42" />
-        <mark key="[" line="43" column="7" />
-        <mark key="]" line="43" column="12" />
-        <mark key="^" line="43" column="12" />
-        <mark key="." line="43" column="12" />
-      </file>
-      <file name="$USER_HOME$/Downloads/openIMDemo_src_2.0.2.1/src/com/taobao/openimui/sample/ConversationListUICustomSample.java" timestamp="1494644251252" />
-      <file name="$USER_HOME$/Downloads/MeProject/MeTest/app/src/main/java/com/sqsgalaxys/metest/MainActivity.java" timestamp="1484147897780">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/MainActivity.java" timestamp="1480407937656">
-        <mark key="'" line="39" column="51" />
-        <mark key="[" line="82" column="19" />
-        <mark key="]" line="82" column="19" />
-        <mark key="^" line="82" column="19" />
-        <mark key="." line="82" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1482652031730">
         <mark key="[" line="0" column="0" />
@@ -374,11 +380,11 @@
       <register name="a" type="4">
         <text>@mipmap/ic_launcher</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>Acti</text>
@@ -390,28 +396,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICBCdXR0b24K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdDEgPSBwYWNrVGVtcC5nZXQoNCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog55S15rGg55S16YeP5bm/5pKt5o6l5Y+X6ICFCiAgICAgKi8KICAgIGNsYXNzIEJhdHRlcnlSZWNlaXZlciBleHRlbmRzIEJyb2FkY2FzdFJlY2VpdmVyIHsKCgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uUmVjZWl2ZShDb250ZXh0IGNvbnRleHQsIEludGVudCBpbnRlbnQpIHsKICAgICAgICAgICAgLy8g6I635Y+W55S16YePCiAgICAgICAgICAgIGludCBsZXZlbCA9IGludGVudC5nZXRJbnRFeHRyYShCYXR0ZXJ5TWFuYWdlci5FWFRSQV9MRVZFTCwgMCk7CiAgICAgICAgICAgIC8vIOiuvue9ruWbvueJhwogICAgICAgICAgICBzZXRCYXR0ZXJ5SW1nKGxldmVsKTsKICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vcHVibGljIHN0YXRpYyBTdHJpbmcgUkVHSVNUX1VSTCA9IEhPU1QgKyAiYnJhaW53YXZlc2VydmVyL2FwaS9yZWdpc3QiOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6YeK5pS+6LWE5rqQCiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25EZXN0cm95KCkgewogICAgICAgIC8vIOmHiuaUvui1hOa6kCA6IOWFiOmHiuaUvuWtkOexu+i1hOa6kAogICAgICAgIGlmIChtQmF0dGVyeVJlY2VpdmVyICE9IG51bGwpIHsKICAgICAgICAgICAgdW5yZWdpc3RlclJlY2VpdmVyKG1CYXR0ZXJ5UmVjZWl2ZXIpOwogICAgICAgIH0KICAgICAgICBMb2cuZChUQUcsICItLSBvbkRlc3Ryb3kiKTsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FOiA1LzIzLzIwMTYgdXNlIG5ldyBhcGkgLy8gVE9ETzogNS8yMy8yMDE2Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIEhPU1QgPSAiaHR0cDovLzEwMy4yNi4wLjEwOjgwODAvYnJhaW53YXZlL2FwaS8iOwo=</text>
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIHJlZ2lzdGVyQnJvYWRjYXN0KCkgewogICAgLy8g5rOo5YaM55S16YeP5bm/5pKtCiAgICBtQmF0dGVyeVJlY2VpdmVyID0gbmV3IEJhdHRlcnlSZWNlaXZlcigpOwogICAgcmVnaXN0ZXJSZWNlaXZlcihtQmF0dGVyeVJlY2VpdmVyLG5ldyBJbnRlbnRGaWx0ZXIoSW50ZW50LkFDVElPTl9CQVRURVJZX0NIQU5HRUQpKTsKfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOacrOacuiB3aWZpIElQIDIK</text>
+        <text encoding="base64">ICAgIFRBRwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vaHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9hcGkvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
