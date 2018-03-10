@@ -105,7 +105,6 @@
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/BatteryReceiver.java" timestamp="1520163300179" />
       <file name="D:/ZCSW/BrainWave/BrainHealth/app/src/main/java/com/zhongchuangsiwei/brainhealth/view/activity/ERPMonitorActivity.java" timestamp="1477735037989">
         <mark key="'" line="79" column="42" />
         <mark key="[" line="43" column="7" />
@@ -118,7 +117,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Energize-master/app/src/main/AndroidManifest.xml" timestamp="1520166681771" />
       <file name="D:/Documents/GitHub/BingWallpaper/app/src/main/java/com/youthlin/bingwallpaper/MainActivity.java" timestamp="1480407937656">
         <mark key="'" line="39" column="51" />
         <mark key="[" line="82" column="19" />
@@ -182,7 +180,6 @@
         <mark key="." line="238" column="24" />
         <mark key="^" line="238" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/MeBattery/app/src/main/java/xyz/sydns/mebattery/BootCompletedReceiver.java" timestamp="1520166734431" />
       <file name="$USER_HOME$/Downloads/Energize-master/app/build.gradle" timestamp="1520165163761">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="27" />
@@ -223,6 +220,11 @@
         <mark key="]" line="488" column="0" />
         <mark key="^" line="452" column="47" />
         <mark key="." line="488" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/91porn/build.gradle" timestamp="1520716376019">
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
       </file>
       <file name="$USER_HOME$/Downloads/MeTestApplication/app/src/main/AndroidManifest.xml" timestamp="1482659462323">
         <mark key="'" line="12" column="0" />
@@ -292,6 +294,11 @@
       </file>
       <file name="/fragment.java" timestamp="1520166690551">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/91porn/app/build.gradle" timestamp="1520716424014">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="D:/Desktop/MiaoDian/AppStartActivity/appStartActivity/build.gradle" timestamp="1478143556003">
         <mark key="'" line="31" column="0" />
@@ -457,7 +464,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5oYWxjeW9ud2F2ZXMuYXBwcy5lbmVyZ2l6ZS5yZWNlaXZlcnMuUG93ZXJTdXBwbHlQdWxsZWRPZmZSZWNlaXZlcjsK</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -511,6 +518,7 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>17</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
